@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">:wave: Hi, I'm Cameron MacDonald!</h1>
+<p align="center">I'm a front-end developer with a passion for design :art:, accessibility :earth_americas:, and open source :unlock:</p>
+
+- 🔭 I’m currently working on improving developer processes on design systems.
+- 🌱 I’m currently learning German, piano, photography, and more advanced React topics!
+- :computer: I love me a good mechanical keyboard, I'm rocking the ZSA Moonlander Mark I!
+- :radio: Listening to *Lizzo - 2 Be Loved (Am I Ready)*
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have deuteranomaly, which means my color vision is red-green deficient.
 
 <!--
 **cadomac/cadomac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
