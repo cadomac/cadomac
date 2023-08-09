@@ -10,8 +10,7 @@
 - :computer: I love me a good mechanical keyboard, I'm rocking the [ZSA Moonlander Mark I](https://www.zsa.io/moonlander/)!
 - :radio: Listening to [*Lady - Hear Me Tonight by Modjo*](https://youtu.be/MR3uP7IYz44)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I have deuteranomaly, which means my color vision is red-green deficient.
-
+- ⚡ Fun fact: I am a moderate protan, meaning my green color vision is deficient.
 
 
 <!--
