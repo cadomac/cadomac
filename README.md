@@ -1,12 +1,7 @@
 <h1 align="center">:wave: Hey, I'm Cameron.</h1>
 <p align="center">I'm a front-end developer with a passion for design :art:, accessibility :earth_americas:, and open source :unlock:</p>
 
-<div style="width: auto; display: flex; justify-content: center;">
-  <p align="center" style="font-weight: bold;">📻 Current Jam 📻</p>
-  <p align="center"><img src="https://github.com/cadomac/cadomac/assets/12107773/81c7693b-1ae3-4a1e-af08-dbfb2b518307" height="200px" width="auto" style="display: block;" alt="Album cover for Dorohedoro - Dance in the Chaos" /></p>
-  <p align="center" style="font-weight: bold;">Night SURFING - (K)NoW_NAME</p>
-</div>
-
+## About Me
 - 😄 Pronouns: he/him/his
 - 🎨 I’m currently working on improving developer processes on design systems.
 - 🌱 I’m currently learning German, piano, photography, and more advanced React topics!
@@ -16,12 +11,19 @@
 
 If you like my work, [please consider buying me a coffee over at Ko-fi](https://ko-fi.com/cadoma)!
 
-------
 
-**Certifications**
+## Certifications
 <div>
   <img height="100px" width="auto" src="https://github.com/cadomac/cadomac/assets/12107773/49067765-ed67-4b5b-8529-267b2dcd5ff4" alt="IAAP Certified Professional in Core Accessibility Competencies" />
   <img height="100px" width="auto" src="https://github.com/cadomac/cadomac/assets/12107773/16bb00c5-5589-4762-bbdd-579517d17aa4" alt="Nielsen Norman Group - User Experience Certification" />
+</div>
+
+<br><br>
+
+<div>
+  <p align="center" style="font-weight: bold;">📻 Current Jam 📻</p>
+  <p align="center"><img src="https://github.com/cadomac/cadomac/assets/12107773/81c7693b-1ae3-4a1e-af08-dbfb2b518307" height="200px" width="auto" alt="Album cover for Dorohedoro - Dance in the Chaos" /></p>
+  <p align="center">Night SURFING - (K)NoW_NAME</p>
 </div>
 
 <!--
