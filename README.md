@@ -1,20 +1,28 @@
 <h1 align="center">:wave: Hey, I'm Cameron.</h1>
 <p align="center">I'm a front-end developer with a passion for design :art:, accessibility :earth_americas:, and open source :unlock:</p>
 
-<p align="center">
-  <img height="100px" width="auto" src="https://github.com/cadomac/cadomac/assets/12107773/49067765-ed67-4b5b-8529-267b2dcd5ff4" />
-</p>
+<div style="width: auto; display: flex; justify-content: center;">
+  <p align="center" style="font-weight: bold;">📻 Current Jam 📻</p>
+  <p align="center"><img src="https://github.com/cadomac/cadomac/assets/12107773/81c7693b-1ae3-4a1e-af08-dbfb2b518307" height="200px" width="auto" style="display: block;" alt="Album cover for Dorohedoro - Dance in the Chaos" /></p>
+  <p align="center" style="font-weight: bold;">Night SURFING - (K)NoW_NAME</p>
+</div>
 
 - 😄 Pronouns: he/him/his
 - 🎨 I’m currently working on improving developer processes on design systems.
 - 🌱 I’m currently learning German, piano, photography, and more advanced React topics!
 - 💻 I love me a good mechanical keyboard, I'm rocking the [ZSA Moonlander Mark I](https://www.zsa.io/moonlander/)!
-- 📻 Listening to [*Night SURFING - (K)NoW_NAME*](https://www.youtube.com/watch?v=WqHQMgUJcQo&pp=ygUNbmlnaHQgc3VyZmluZw%3D%3D)
 - 🔩 I've recently picked up 3D printing! You can find me on [Printables](https://www.printables.com/@cadomac_1434444)!
 - ⚡ Fun fact: I am a moderate protan, meaning my green color vision is deficient.
 
 If you like my work, [please consider buying me a coffee over at Ko-fi](https://ko-fi.com/cadoma)!
 
+------
+
+**Certifications**
+<div>
+  <img height="100px" width="auto" src="https://github.com/cadomac/cadomac/assets/12107773/49067765-ed67-4b5b-8529-267b2dcd5ff4" alt="IAAP Certified Professional in Core Accessibility Competencies" />
+  <img height="100px" width="auto" src="https://github.com/cadomac/cadomac/assets/12107773/16bb00c5-5589-4762-bbdd-579517d17aa4" alt="Nielsen Norman Group - User Experience Certification" />
+</div>
 
 <!--
 **cadomac/cadomac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
