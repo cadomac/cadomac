@@ -14,7 +14,7 @@ If you like my work, [please consider buying me a coffee over at Ko-fi](https://
 
 ## Certifications
 <div>
-  <img height="100px" width="auto" src="https://github.com/cadomac/cadomac/assets/12107773/49067765-ed67-4b5b-8529-267b2dcd5ff4" alt="IAAP Certified Professional in Core Accessibility Competencies" />
+  <img height="100px" width="auto" src="https://github.com/cadomac/cadomac/assets/12107773/49067765-ed67-4b5b-8529-267b2dcd5ff4" alt="IAAP Certified Professional in Accessibility Core Competencies" />
   <img height="100px" width="auto" src="https://github.com/cadomac/cadomac/assets/12107773/16bb00c5-5589-4762-bbdd-579517d17aa4" alt="Nielsen Norman Group - User Experience Certification" />
 </div>
 
