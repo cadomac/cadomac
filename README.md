@@ -6,10 +6,11 @@
 </p>
 
 - 😄 Pronouns: he/him/his
-- :rocket: I’m currently working on improving developer processes on design systems.
+- 🎨 I’m currently working on improving developer processes on design systems.
 - 🌱 I’m currently learning German, piano, photography, and more advanced React topics!
-- :computer: I love me a good mechanical keyboard, I'm rocking the [ZSA Moonlander Mark I](https://www.zsa.io/moonlander/)!
-- :radio: Listening to [*So Far So Good - Great Good Fine Ok*](https://www.youtube.com/watch?v=TM3qxk9s3sw)
+- 💻 I love me a good mechanical keyboard, I'm rocking the [ZSA Moonlander Mark I](https://www.zsa.io/moonlander/)!
+- 📻 Listening to [*Night SURFING - (K)NoW_NAME*](https://www.youtube.com/watch?v=WqHQMgUJcQo&pp=ygUNbmlnaHQgc3VyZmluZw%3D%3D)
+- 🔩 I've recently picked up 3D printing! You can find me on [Printables](https://www.printables.com/@cadomac_1434444)!
 - ⚡ Fun fact: I am a moderate protan, meaning my green color vision is deficient.
 
 If you like my work, [please consider buying me a coffee over at Ko-fi](https://ko-fi.com/cadoma)!
