@@ -9,7 +9,9 @@
 - I've recently picked up 3D printing! You can find me on [Printables](https://www.printables.com/@cadomac_1434444)!
 - Fun fact: I am a moderate protan, meaning my green color vision is deficient.
 
-If you like my work, [please consider buying me a coffee over at Ko-fi](https://ko-fi.com/cadoma)!
+If you like my work, please consider buying me a coffee over at Ko-fi!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z2O191Z)
 
 
 ## Certifications
