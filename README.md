@@ -7,7 +7,7 @@
 - I’m currently learning German, Japanese, piano, photography, and low level programming!
 - I love me a good mechanical keyboard, I'm rocking the [ZSA Moonlander Mark I](https://www.zsa.io/moonlander/) and the [ZSA Voyager](https://www.zsa.io/voyager/)!
 - I've recently picked up 3D printing! You can find me on [Printables](https://www.printables.com/@cadomac_1434444)!
-- Fun fact: I am a moderate protan, meaning my green color vision is deficient.
+- Fun fact: I am a moderate protan, meaning my red-green color vision is deficient.
 
 If you like my work, please consider buying me a coffee over at Ko-fi!
 
@@ -21,9 +21,12 @@ If you like my work, please consider buying me a coffee over at Ko-fi!
 </div>
 
 ## Current Jam
-<div><img src="https://github.com/cadomac/cadomac/assets/12107773/81c7693b-1ae3-4a1e-af08-dbfb2b518307" height="200px" width="auto" alt="Album cover for Dorohedoro - Dance in the Chaos" /></div>
+<div><img src="https://github.com/user-attachments/assets/d85fc8cf-1c4a-4df9-9c32-d92b240558f5" height="200px" width="auto" alt="Album cover for Dorohedoro - Dance in the Chaos" /></div>
+
   
-**Night SURFING - (K)NoW_NAME**
+**Illuminus (Album) - Kenichiro Nishihara**
+
+_Genre: Japanese Jazz Fusion_
 
 <!--
 **cadomac/cadomac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
