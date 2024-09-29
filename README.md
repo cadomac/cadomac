@@ -24,7 +24,7 @@ If you like my work, please consider buying me a coffee over at Ko-fi!
 <div><img src="https://github.com/user-attachments/assets/d85fc8cf-1c4a-4df9-9c32-d92b240558f5" height="200px" width="auto" alt="Album cover for Dorohedoro - Dance in the Chaos" /></div>
 
   
-**Illuminus (Album) - Kenichiro Nishihara**
+**illuminus (Album) - Kenichiro Nishihara**
 
 _Genre: Japanese Jazz Fusion_
 
