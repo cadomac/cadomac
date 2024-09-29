@@ -21,10 +21,10 @@ If you like my work, please consider buying me a coffee over at Ko-fi!
 </div>
 
 ## Current Jam
-<div><img src="https://github.com/user-attachments/assets/d85fc8cf-1c4a-4df9-9c32-d92b240558f5" height="200px" width="auto" alt="Album cover for Dorohedoro - Dance in the Chaos" /></div>
+<a href="https://kenichironishihara.bandcamp.com/album/illuminus" target="_blank"><div><img src="https://github.com/user-attachments/assets/d85fc8cf-1c4a-4df9-9c32-d92b240558f5" height="200px" width="auto" alt="Album cover for Dorohedoro - Dance in the Chaos" /></div></a>
 
   
-**illuminus (Album) - Kenichiro Nishihara**
+[**illuminus (Album) - Kenichiro Nishihara**](https://kenichironishihara.bandcamp.com/album/illuminus)
 
 _Genre: Japanese Jazz Fusion_
 
