@@ -6,7 +6,7 @@
 - I’m currently working on improving processes on design systems.
 - I’m currently learning German, Japanese, piano, photography, and low level programming!
 - I love me a good mechanical keyboard, I'm rocking the [ZSA Moonlander Mark I](https://www.zsa.io/moonlander/) and the [ZSA Voyager](https://www.zsa.io/voyager/)!
-- I've recently picked up 3D printing! You can find me on [Printables](https://www.printables.com/@cadomac)!
+- I've recently picked up 3D printing! You can find me on [Printables](https://www.printables.com/@bigheadcam)!
 - Fun fact: I am a moderate protan, meaning my red-green color vision is deficient.
 
 If you like my work, please consider buying me a coffee over at Ko-fi!
