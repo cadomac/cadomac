@@ -28,10 +28,11 @@ If you like my work, please consider buying me a coffee over at Ko-fi!
 </div>
 
 ## Current Jam
-<a href="https://kenichironishihara.bandcamp.com/album/illuminus" target="_blank"><div><img src="https://github.com/user-attachments/assets/d85fc8cf-1c4a-4df9-9c32-d92b240558f5" height="200px" width="auto" alt="Album cover for Dorohedoro - Dance in the Chaos" /></div></a>
+<a href="https://ljonesbeats.bandcamp.com/album/soul-below" target="_blank"><div><img width="auto" height="200" alt="Album cover for Ljones - Soul Below, an illustration with artistic brush strokes and watercolor paint spatters" src="https://github.com/user-attachments/assets/77a9fb27-6e5a-46c4-8bbf-42a77de20540" /></div></a>
+
 
   
-[**illuminus (Album) - Kenichiro Nishihara**](https://kenichironishihara.bandcamp.com/album/illuminus)
+[**Soul Below (Album) - Ljones**](https://ljonesbeats.bandcamp.com/album/soul-below)
 
 _Genre: Japanese Jazz Fusion_
 
